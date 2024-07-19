@@ -1,2 +1,5 @@
 {
+    "GameRoundTimeSeconds": 90.0,
+    "VotingRoundTimeSeconds": 60.0,
+    "TotalRounds": 3
 }
