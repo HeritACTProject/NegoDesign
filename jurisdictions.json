@@ -36,10 +36,10 @@
             "currency": "EURO",
             "logo": "score.com/images/dunlaoghaire.jpg",
             "center": [
-                "38.03926207934312",
-                "23.536541125478454"
+                "38.0438",
+                "23.5434"
             ],
-            "zoom": 13
+            "zoom": 15
         },
         {
             "name": "Cascina Linterno",
