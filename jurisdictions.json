@@ -15,10 +15,10 @@
             "currency": "EURO",
             "logo": "score.com/images/dunlaoghaire.jpg",
             "center": [
-                "54.1133637485303",
-                "-9.15186160201067"
+                "54.11331",
+                "-9.15981"
             ],
-            "zoom": 15
+            "zoom": 14
         },
         {
             "name": "Eleusis",
